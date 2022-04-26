@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44257509464",
+    "project_id": "mymassengerapp-7b5f9",
+    "storage_bucket": "mymassengerapp-7b5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44257509464:android:1d5c2dc4278034cfb8ca2d",
+        "android_client_info": {
+          "package_name": "com.bahaaoxa.flutter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44257509464-mgudfc0t3i4b0vtepj8cv41qp32m2eeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSIgh_fig2jMv__N5fIdg7IR2k7HNRh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44257509464-mgudfc0t3i4b0vtepj8cv41qp32m2eeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
